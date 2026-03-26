@@ -29,7 +29,7 @@ replay_pid*
 /test/
 /dist/
 /nbproject/private/
-**/bin/
 /target/
 nbproject/build-impl.xml
 nbproject/genfiles.properties
+**/bin/
